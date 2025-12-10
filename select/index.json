@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "忘れない為に",
+  "base_artist": "yanaginagi",
+  "createdAt": "2025-12-10T12:06:17.299806Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "忘れない為に",
+      "artist": "やなぎなぎ",
+      "has_synced": true,
+      "path": "select/01_忘れない為に_やなぎなぎ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "忘れない為に",
+      "artist": "yanaginagi",
+      "has_synced": true,
+      "path": "select/02_忘れない為に_yanaginagi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "忘れない為に",
+      "artist": "やなぎなぎ",
+      "has_synced": false,
+      "path": "select/pl_01_忘れない為に_やなぎなぎ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "忘れない為に",
+      "artist": "やなぎなぎ",
+      "has_synced": false,
+      "path": "select/pl_02_忘れない為に_やなぎなぎ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "忘れない為に",
+      "artist": "やなぎなぎ",
+      "has_synced": false,
+      "path": "select/pl_03_忘れない為に_やなぎなぎ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "忘れない為に",
+      "artist": "やなぎなぎ",
+      "has_synced": false,
+      "path": "select/pl_04_忘れない為に_やなぎなぎ.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "忘れない為に",
+      "artist": "やなぎなぎ",
+      "has_synced": false,
+      "path": "select/pl_05_忘れない為に_やなぎなぎ.txt"
+    }
+  ]
+}
